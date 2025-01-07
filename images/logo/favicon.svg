@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156.18 208.35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff8000;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>Asset 2</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <polygon class="cls-1" points="50.45 28.62 76.19 0 76.19 208.35 50.45 208.35 50.45 28.62"/>
+        <polygon class="cls-1" points="110.9 66.89 136.53 38.27 136.53 208.35 110.9 208.35 110.9 66.89"/>
+        <polygon class="cls-1" points="96.65 27.47 92.05 22.3 92.05 208.35 96.65 208.35 96.65 27.47"/>
+        <polygon class="cls-1" points="106.3 38.15 101.71 32.98 101.71 208.35 106.3 208.35 106.3 38.15"/>
+        <polygon class="cls-1" points="155.83 203.64 0 203.64 0 208.35 155.83 208.35 155.83 203.64"/>
+        <polygon class="cls-1" points="86.19 15.86 81.59 10.69 81.59 208.35 86.19 208.35 86.19 15.86"/>
+        <polygon class="cls-1" points="156.18 66.31 151.47 61.14 151.24 208.35 155.83 208.35 156.18 66.31"/>
+        <polygon class="cls-1" points="145.72 54.7 141.01 49.53 140.78 208.35 145.38 208.35 145.72 54.7"/>
+        <polygon class="cls-1" points="0 115.73 25.74 87.23 25.74 208.35 0 208.35 0 115.73"/>
+        <polygon class="cls-1" points="45.74 110.9 41.14 105.73 40.8 208.35 45.39 208.35 45.74 110.9"/>
+        <polygon class="cls-1" points="35.28 99.29 30.68 94.12 30.34 208.35 34.94 208.35 35.28 99.29"/>
+      </g>
+    </g>
+  </g>
+</svg>

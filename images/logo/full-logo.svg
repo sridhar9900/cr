@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <!-- Embedding the image from the provided URL -->
+  <image href="https://pngset.com/download-free-png-owbkk" x="10" y="10" height="180" width="180" />
+
+  <!-- Text beside the logo -->
+  <text x="200" y="100" font-family="Arial, Helvetica, sans-serif" font-size="48" fill="#000">
+    CR Construction
+  </text>
+</svg>
